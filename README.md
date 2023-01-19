@@ -6,7 +6,7 @@
 ### 1. Description
 ### 2. Dataset
 ### 3. EDA - Exploratory data analysis
-### 4. data preprocessing
+### 4. Data Preprocessing
 ### 4. Model
 ### 5. Evaluation
 
@@ -19,7 +19,7 @@ The datset is collected from [UCI](https://archive.ics.uci.edu/ml/datasets/Drug+
 ### 3. EDA - Exploratory data analysis
       * Statisticaly analysis data
 
-### 4. data preprocessing 
+### 4. Data Preprocessing 
 1. Sopt Word
 2. Lemmatization
 3. Split the dataset
